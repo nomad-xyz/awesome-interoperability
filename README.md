@@ -72,6 +72,7 @@ Links to projects, guides, articles, videos and any related content.
 - [The Interoperability Trilemma](https://blog.connext.network/the-interoperability-trilemma-657c2cf69f17) - The trillema of interoperability
 - [Trustless Bridging II: Byzantine Fault Tolerance: Securing light client-based bridges in the event of byzantine attacks](https://medium.com/composable-finance/trustless-bridging-ii-byzantine-fault-tolerance-591e8b2d196e)
 - [With Bridges, Trust is a Spectrum](https://blog.li.fi/li-fi-with-bridges-trust-is-a-spectrum-354cd5a1a6d8) - The different trust assumptions that exist in cross-chain protocols
+- [SoK: Security and Privacy of Blockchain Interoperability](https://web.ist.utl.pt/~ist190704/sok_security_and_privacy_of_blockchain_interoperability.pdf) - Systematization of Knowledge for security and privacy in cross-chain. It also contains one of the most comprehensive lists of cross-chain hacks of all times.
 
 ## Podcasts, Videos
 
